@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15DB9D35-B7AA-49E5-A059-C8C9152CF4C7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41CC27F2-338E-45F0-ABB7-AF8B477144D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "H4XOR News/Model/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "NetworkManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "41CC27F2-338E-45F0-ABB7-AF8B477144D7 - 7d6f9d7ecf267f24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "H4XOR_News.NetworkManager.deinit"
+                  moduleName = "H4XOR News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohanankam/Desktop/iOS/iOS%20&amp;%20Swift%20By%20Angela%20Yu/SwiftUI%20Projects/H4XOR%20News/H4XOR%20News/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "41CC27F2-338E-45F0-ABB7-AF8B477144D7 - 1f9cd6867d4a3a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "H4XOR_News.NetworkManager.__deallocating_deinit"
+                  moduleName = "H4XOR News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohanankam/Desktop/iOS/iOS%20&amp;%20Swift%20By%20Angela%20Yu/SwiftUI%20Projects/H4XOR%20News/H4XOR%20News/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "41CC27F2-338E-45F0-ABB7-AF8B477144D7 - 29dedda589162d6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "H4XOR_News.NetworkManager.__allocating_init() -&gt; H4XOR_News.NetworkManager"
+                  moduleName = "H4XOR News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohanankam/Desktop/iOS/iOS%20&amp;%20Swift%20By%20Angela%20Yu/SwiftUI%20Projects/H4XOR%20News/H4XOR%20News/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "41CC27F2-338E-45F0-ABB7-AF8B477144D7 - 710d321dd5c7bbd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "H4XOR_News.NetworkManager.init() -&gt; H4XOR_News.NetworkManager"
+                  moduleName = "H4XOR News"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohanankam/Desktop/iOS/iOS%20&amp;%20Swift%20By%20Angela%20Yu/SwiftUI%20Projects/H4XOR%20News/H4XOR%20News/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DECE530E-30A6-4053-AABB-DB7A18B14D73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "H4XOR News/Model/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NetworkManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89E2B3A8-9609-428C-8F2E-674F4FF69FE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "H4XOR News/Model/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
